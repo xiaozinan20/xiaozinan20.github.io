@@ -21,11 +21,11 @@ Academic software and skills
 Hobbies
 ======
 
-* Playing table tennis (started from 7 years old)
+* Playing table tennis 🏓(started from 7 years old)
 
-* Travelling and taking photos (especially for my girlfriend)
+* Travelling and taking photos 🌄(especially for my girlfriend)
 
-* Cooking and searching for food (trying to control my weight)
+* Cooking and searching for food 🍱(trying to control my weight)
 
 
 
