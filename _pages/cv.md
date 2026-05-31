@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+For downloading CV, please [click](https://xiaozinan20.github.io/files/Zinan_s_resume.pdf)
+======
+
 Education
 ======
 * Ph.D in Electrical & Computer Engineering, King Abdullah University of Science and Technology, 2028 (expected)
