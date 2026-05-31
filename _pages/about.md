@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my page 👋! My name is Zinan Xiao and I am a third-year PhD student at [KAUST Photonics Lab](https://photonics.kaust.edu.sa/) under supervision of [Prof. Boon S. ooi](https://cemse.kaust.edu.sa/profiles/boon-ooi). I am currently working on project of single-photon sensing, computational ghost imaging (Aramco project), deep learning for image denoising and classification (NCPD project). 
+Hi, welcome to my page 👋! My name is Zinan Xiao and I am a third-year PhD student at [KAUST Photonics Lab](https://photonics.kaust.edu.sa/) under supervision of [Prof. Boon S. Ooi](https://cemse.kaust.edu.sa/profiles/boon-ooi). I am currently working on project of single-photon sensing, computational ghost imaging (Aramco project), deep learning for image denoising and classification (NCPD project). 
 
 <!-- A data-driven personal website
 ======
